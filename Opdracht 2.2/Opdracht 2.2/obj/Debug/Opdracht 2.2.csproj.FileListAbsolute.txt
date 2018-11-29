@@ -1,0 +1,7 @@
+C:\Users\rogan\source\repos\Opdracht 2.2\Opdracht 2.2\bin\Debug\Opdracht 2.2.exe.config
+C:\Users\rogan\source\repos\Opdracht 2.2\Opdracht 2.2\bin\Debug\Opdracht 2.2.exe
+C:\Users\rogan\source\repos\Opdracht 2.2\Opdracht 2.2\bin\Debug\Opdracht 2.2.pdb
+C:\Users\rogan\source\repos\Opdracht 2.2\Opdracht 2.2\obj\Debug\Opdracht 2.2.csprojAssemblyReference.cache
+C:\Users\rogan\source\repos\Opdracht 2.2\Opdracht 2.2\obj\Debug\Opdracht 2.2.csproj.CoreCompileInputs.cache
+C:\Users\rogan\source\repos\Opdracht 2.2\Opdracht 2.2\obj\Debug\Opdracht 2.2.exe
+C:\Users\rogan\source\repos\Opdracht 2.2\Opdracht 2.2\obj\Debug\Opdracht 2.2.pdb
