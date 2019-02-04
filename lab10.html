@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html lang="nl" style="font-family: Arial, Helvetica, sans-serif">
+<link rel="stylesheet" href="lab10.css">
+<head>
+<div id="alles">
+<form name="formulier"
+action = "mailto: postmaster@radiogaga.com"
+method = "post">
+<fieldset>
+<legend>Inschrijfformulier</legend>
+<select required naam="concerten" id="concerten">
+    <option value="0">kies een cursus</option>
+    <option value="Manu Chau">Dunne cursus</option>
+    <option value="Evanescence">Saaie cursus</option>
+    <option value="Sade">Dikke cursus</option>
+    </select><br>
+
+<select required naam="concerten" id="concerten">
+    <option value="0">kies een locatie</option>
+    <option value="Manu Chau">Istanbul</option>
+    <option value="Evanescence">De Bijlmer</option>
+    <option value="Sade">Het ROC Van Twente</option>
+    </select><br>
+
+    <label for="datum">Begindatum:</label><br>
+    <input required type="date" name="datum" id="datum"><br>
+
+    <label for="opleiding">Selecteer een opleiding:</label>
+    BOL<input type="radio" name="opleiding" value="BOL">
+    BBL<input type="radio" name="opleiding" value="BBL">
+    <br>
+
+<input required type="text" id="naam"
+    name="naam" placeholder="Naam"><br>
+<input required type="text" id="achternaam"
+    name="achternaam" placeholder="achternaam"><br>
+<input required type="adres" id="adres"
+    name="adres" placeholder="adres"><br>
+<input required type="woonplaats" id="woonplaats"
+    name="woonplaats" placeholder="woonplaats"><br>
+<input required type="email" id="email"
+    name="email" placeholder="E-mail"><br>
+<input required type="text" id="mobiel"
+    name="mobiel" placeholder="Mobiel"><br>
+
+    <label for="abonnementen">Geef je voorkeur aan:</label><br>
+    Avondschool:
+    <input type="checkbox" name="Avondschool"
+    id="Avondschool" value="Avondschool"><br>
+    Weekendschool:
+    <input type="checkbox" name="Weekendschool"
+    id="Weekendschool" name="Weekendschool"><br>
+    Geen voorkeur:
+    <input type="checkbox" name="Geen voorkeur"
+    id="Geen voorkeur" name="Geen voorkeur"><br>
+
+    <label for="ranking">Wat is je opleidingsniveau</label><br>
+    <label for="ranking">1</label>
+    <input type="range" name="ranking" id="ranking" min="1" max="10">
+    <label for="ranking">10</label><br>
+</fieldset>
+<input type="submit" id="verzend"
+name="verzend" value="verzend">
+</form>
+</div>
+</head>

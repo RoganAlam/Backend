@@ -1,0 +1,13 @@
+table{
+    border: 4px double black;
+    border: 3px double;
+    background: linear-gradient(to bottom, red, orange, yellow, lightgreen)
+}
+td{
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 4px double black;
+}
+th{
+    
+}

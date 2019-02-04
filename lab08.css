@@ -1,0 +1,83 @@
+#een {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    opacity: 0.7;
+    font-size: 1.7rem;
+    color: aliceblue;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -100;
+}
+#twee{
+    background-color: deeppink;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    opacity: 0.7;
+    font-size: 1.7rem;
+    color: aliceblue;
+    position: relative;
+    top: 50px;
+    left: 1%;
+    z-index: -10;
+}
+#drie{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    opacity: 0.7;
+    font-size: 1.7rem;
+    color: aliceblue;
+    position: relative;
+    top: -80px;
+    left: 3%;
+    z-index: -1;
+}
+div{
+    -webkit-animation-name: spinning;
+    -webkit-animation-duration: 3s;
+    -webkit-animation-iteration-count: infinite;
+
+    animation-name: spinning;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes spinning {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+#cirkeleen{
+    width: 165px;
+    height: 165px;
+    background: white;
+    position: relative;
+    top: 0%;
+    left: 10%;
+    display: block;
+    border-radius: 50%;
+}
+#cirkeltwee{
+    width: 165px;
+    height: 165px;
+    background: white;
+    position: relative;
+    top: 0%;
+    left: 10%;
+    display: block;
+    border-radius: 50%;
+}
+#cirkeldrie{
+    width: 165px;
+    height: 165px;
+    background: white;
+    position: relative;
+    top: 0%;
+    left: 10%;
+    display: block;
+    border-radius: 50%;
+}
