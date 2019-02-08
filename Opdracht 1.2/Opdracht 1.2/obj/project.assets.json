@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rogan\\source\\repos\\Opdracht 1.2\\Opdracht 1.2\\Opdracht 1.2.csproj",
+      "projectUniqueName": "C:\\Users\\rogan\\OneDrive\\Documents\\Opdrachten Scrum\\repos\\Opdracht 1.2\\Opdracht 1.2\\Opdracht 1.2.csproj",
       "projectName": "Opdracht 1.2",
-      "projectPath": "C:\\Users\\rogan\\source\\repos\\Opdracht 1.2\\Opdracht 1.2\\Opdracht 1.2.csproj",
+      "projectPath": "C:\\Users\\rogan\\OneDrive\\Documents\\Opdrachten Scrum\\repos\\Opdracht 1.2\\Opdracht 1.2\\Opdracht 1.2.csproj",
       "packagesPath": "C:\\Users\\rogan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rogan\\source\\repos\\Opdracht 1.2\\Opdracht 1.2\\obj\\",
+      "outputPath": "C:\\Users\\rogan\\OneDrive\\Documents\\Opdrachten Scrum\\repos\\Opdracht 1.2\\Opdracht 1.2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

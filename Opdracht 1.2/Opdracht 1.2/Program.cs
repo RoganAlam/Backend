@@ -9,7 +9,7 @@ namespace Opdracht_1._2
             Console.WriteLine("********************");
             Console.WriteLine("***    Rogan   *** ");
             Console.WriteLine("********************");
-            Console.ReadLine
+            Console.ReadLine();
         }
     }
 }
