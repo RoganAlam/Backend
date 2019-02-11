@@ -1,0 +1,22 @@
+C:\Users\rogan\source\repos\Opdracht.3.2\Opdracht.3.2\obj\Debug\netcoreapp2.1\Opdracht.3.2.csprojAssemblyReference.cache
+C:\Users\rogan\source\repos\Opdracht.3.2\Opdracht.3.2\obj\Debug\netcoreapp2.1\Opdracht.3.2.csproj.CoreCompileInputs.cache
+C:\Users\rogan\source\repos\Opdracht.3.2\Opdracht.3.2\obj\Debug\netcoreapp2.1\Opdracht.3.2.AssemblyInfoInputs.cache
+C:\Users\rogan\source\repos\Opdracht.3.2\Opdracht.3.2\obj\Debug\netcoreapp2.1\Opdracht.3.2.AssemblyInfo.cs
+C:\Users\rogan\source\repos\Opdracht.3.2\Opdracht.3.2\bin\Debug\netcoreapp2.1\Opdracht.3.2.deps.json
+C:\Users\rogan\source\repos\Opdracht.3.2\Opdracht.3.2\bin\Debug\netcoreapp2.1\Opdracht.3.2.runtimeconfig.json
+C:\Users\rogan\source\repos\Opdracht.3.2\Opdracht.3.2\bin\Debug\netcoreapp2.1\Opdracht.3.2.runtimeconfig.dev.json
+C:\Users\rogan\source\repos\Opdracht.3.2\Opdracht.3.2\bin\Debug\netcoreapp2.1\Opdracht.3.2.dll
+C:\Users\rogan\source\repos\Opdracht.3.2\Opdracht.3.2\bin\Debug\netcoreapp2.1\Opdracht.3.2.pdb
+C:\Users\rogan\source\repos\Opdracht.3.2\Opdracht.3.2\obj\Debug\netcoreapp2.1\Opdracht.3.2.dll
+C:\Users\rogan\source\repos\Opdracht.3.2\Opdracht.3.2\obj\Debug\netcoreapp2.1\Opdracht.3.2.pdb
+C:\Github\Backend-Scrum\Git voor scrum\Rogan (opdrachten)\Sprint 2\C#\Opdracht 3.2\Opdracht.3.2\bin\Debug\netcoreapp2.1\Opdracht.3.2.deps.json
+C:\Github\Backend-Scrum\Git voor scrum\Rogan (opdrachten)\Sprint 2\C#\Opdracht 3.2\Opdracht.3.2\bin\Debug\netcoreapp2.1\Opdracht.3.2.runtimeconfig.json
+C:\Github\Backend-Scrum\Git voor scrum\Rogan (opdrachten)\Sprint 2\C#\Opdracht 3.2\Opdracht.3.2\bin\Debug\netcoreapp2.1\Opdracht.3.2.runtimeconfig.dev.json
+C:\Github\Backend-Scrum\Git voor scrum\Rogan (opdrachten)\Sprint 2\C#\Opdracht 3.2\Opdracht.3.2\bin\Debug\netcoreapp2.1\Opdracht.3.2.dll
+C:\Github\Backend-Scrum\Git voor scrum\Rogan (opdrachten)\Sprint 2\C#\Opdracht 3.2\Opdracht.3.2\bin\Debug\netcoreapp2.1\Opdracht.3.2.pdb
+C:\Github\Backend-Scrum\Git voor scrum\Rogan (opdrachten)\Sprint 2\C#\Opdracht 3.2\Opdracht.3.2\obj\Debug\netcoreapp2.1\Opdracht.3.2.csprojAssemblyReference.cache
+C:\Github\Backend-Scrum\Git voor scrum\Rogan (opdrachten)\Sprint 2\C#\Opdracht 3.2\Opdracht.3.2\obj\Debug\netcoreapp2.1\Opdracht.3.2.csproj.CoreCompileInputs.cache
+C:\Github\Backend-Scrum\Git voor scrum\Rogan (opdrachten)\Sprint 2\C#\Opdracht 3.2\Opdracht.3.2\obj\Debug\netcoreapp2.1\Opdracht.3.2.AssemblyInfoInputs.cache
+C:\Github\Backend-Scrum\Git voor scrum\Rogan (opdrachten)\Sprint 2\C#\Opdracht 3.2\Opdracht.3.2\obj\Debug\netcoreapp2.1\Opdracht.3.2.AssemblyInfo.cs
+C:\Github\Backend-Scrum\Git voor scrum\Rogan (opdrachten)\Sprint 2\C#\Opdracht 3.2\Opdracht.3.2\obj\Debug\netcoreapp2.1\Opdracht.3.2.dll
+C:\Github\Backend-Scrum\Git voor scrum\Rogan (opdrachten)\Sprint 2\C#\Opdracht 3.2\Opdracht.3.2\obj\Debug\netcoreapp2.1\Opdracht.3.2.pdb
